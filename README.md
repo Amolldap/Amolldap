@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Here's my contribution map from my primary account. </p>
+<p align="left">Here's my contribution map from my primary account👇🏻 </p>
 
 <br clear="both">
 

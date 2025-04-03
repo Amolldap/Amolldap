@@ -3,12 +3,12 @@
 
 ###
 
-**<p align="left">This is my secondary GitHub account! Here's my primary account (https://amolpagare10.github.io/) </p>**
+**<p align="left">This is my secondary GitHub account! Here's my primary account (https://github.com/Amolpagare10) </p>**  
 
 <p align="left">Welcome to my personal repository! 🚀 This is where I back up all my codes, experiments, and projects. 😉</p>
 
 ###
-🌐 [My Academic Website](https://github.com/Amolpagare10)
+🌐 [My Academic Website](https://amolpagare10.github.io/)
 
 ###
 
